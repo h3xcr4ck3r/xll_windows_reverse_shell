@@ -15,7 +15,7 @@ python3 -m http.server 9999
 
 ### In your Attacker (Windows) machine:
 
-1. Move `notpadXLL.c` to your windows attacker machine and update the Update the `notpadXLL.c` accordingly.
+1. Move `notpadXLL.c` to your windows attacker machine and update the `notpadXLL.c` accordingly.
 3. Open `x64 Native Tools Command Prompt for VS 2022`
 4. run below command to genarte `notepad.xll`
 ```
