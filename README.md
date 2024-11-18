@@ -5,7 +5,7 @@ xll windows reverse shell
 
 ### In your Attacker (Kali) machine:
 ```
-git clone https://github.com/c0d3cr4f73r/xll_windows_reverse_shell.git
+git clone https://github.com/n3rdh4x0r/xll_windows_reverse_shell.git
 ```
 1. Update the `revsh.ps1`
 2. create python http server 
